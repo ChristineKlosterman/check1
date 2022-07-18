@@ -1,0 +1,58 @@
+.hero-img {
+    background-image: url(https://images.unsplash.com/photo-1603736087997-5daec6092347?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80);
+    height: 80vh;
+}
+
+
+body {
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.imgtext {
+    padding-top: 200px;
+    margin-right: 100px;
+    text-shadow: 2px 2px 2px black;
+
+}
+
+.end {
+    height: 60px;
+}
+
+.form {
+    margin-top: 140px;
+
+}
+
+.card:hover {
+    border: 2px solid lightcoral;
+}
+
+.small {
+    height: 16em;
+    align-items: center;
+    font-size: 14;
+    padding-top: 2em;
+}
+
+.big {
+    height: 18em;
+    justify-content: center;
+}
+
+.form {
+    border-radius: 5px;
+
+}
+
+.moreinfo {
+    font-size: large;
+    line-height: 2;
+    text-indent: 8px;
+    letter-spacing: 1px;
+    padding-top: 20px;
+}
+
+.needr {
+    border-radius: 5px;
+}
