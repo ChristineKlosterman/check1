@@ -29,14 +29,16 @@ body {
 }
 
 .small {
-    height: 16em;
+    min-height: 14em;
+    max-height: 20em;
     align-items: center;
     font-size: 14;
-    padding-top: 2em;
+    justify-content: center;
 }
 
 .big {
-    height: 18em;
+    min-height: 18em;
+    max-height: 20em;
     justify-content: center;
 }
 
